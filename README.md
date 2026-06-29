@@ -1,4 +1,4 @@
-# Digital Democracy Toolkit
+# Digital Democracy Toolkit Lab
 
 Selamat Datang di
 Digital Democracy Toolkit Lab
